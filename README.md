@@ -1,2 +1,5 @@
 # git-practice
-Hi my name is Sanny Raj and i am begineer from here and i try to understand github because i upgrade my technical skills and build my foundations.
+
+Hi, I'm Sanny Raj.
+
+This repository is created to practice Git and GitHub. My goal is to strengthen my version control skills and build a strong foundation for software development.
